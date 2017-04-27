@@ -1,4 +1,10 @@
 # Exercise from codecademy.com
+# TO DO:
+#   Multiple battleships
+#   Battleships of different sizes
+#   Make it a two-player game
+#   Add statistics
+
 from random import randint
 
 board = []
